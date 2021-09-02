@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">InstaUser</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_searh">Search</string>
+    <string name="title_About">About</string>
+
+    <!--Content not View-->
+    <string name="username">UserName</string>
+    <string name="banner_content">Banner Content</string>
+    <string name="imagefollower">ImageFollower</string>
+    <string name="tombol">Tombol</string>
+    <string name="imagelike">imagelike</string>
+    <string name="search">Search</string>
+    <string name="name">Name</string>
+    <string name="type_account">Type Account</string>
+
+
+    <string name="full_name">Full Name</string>
+    <string name="location">Location</string>
+    <string name="blog_and_website">Blog and Website</string>
+    <string name="language">Language</string>
+    <string name="comming_soon">Coming Soon</string>
+    <string name="Error">Error</string>
+
+    <!--Alert View-->
+    <string name="title_alert">Not Connection</string>
+    <string name="message_alert">Check your connection and try again</string>
+    <string name="close">Close</string>
+    <string name="try_again">Try Again</string>
+
+</resources>

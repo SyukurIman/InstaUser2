@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel" />
+        <device id="pixel_xl" />
+        <device id="Nexus 6" />
+        <device id="Nexus 7" />
+        <device id="Nexus 5X" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62c73255-279f-4b5e-ad11-0e2698a8df2c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_29" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="InstaUser" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="InstaUser" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="navigationResourceFile" />
+        <option value="resourceFile" />
+        <option value="valueResourceFile" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="KotlinCodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ProjectId" id="1dkiLqAMYtn1IMPQQMmTp40AiYi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="265997387cf5" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-08-21T05:00:32.180Z" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="D:/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.example.instauser.RecyclerViewItems" />
+      <recent name="com.example.instauser.DetailItems" />
+    </key>
+    <key name="android.template.-1403313288">
+      <recent name="com.example.instauser" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.example.instauser.DetailItems" />
+    </key>
+    <key name="android.template.-1518312857">
+      <recent name="com.example.instauser.DetailItems" />
+      <recent name="com.example.instauser" />
+    </key>
+    <key name="android.template.-1743992744">
+      <recent name="com.example.instauser" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ataim\AndroidStudioProjects\InstaUser\app\src\main\res\layout" />
+      <recent name="C:\Users\ataim\AndroidStudioProjects\InstaUser\app\src\main\res\drawable-hdpi" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ataim\AndroidStudioProjects\InstaUser\app\src\main\res\layout" />
+      <recent name="C:\Users\ataim\AndroidStudioProjects\InstaUser\app\src\main\res\drawable" />
+      <recent name="C:\Users\ataim\AndroidStudioProjects\InstaUser\app\src\main\res\menu" />
+      <recent name="C:\Users\ataim\AndroidStudioProjects\InstaUser\app\src\main\res\drawable-v24" />
+      <recent name="C:\Users\ataim\AndroidStudioProjects\InstaUser\app\src\main\java\com\example\instauser" />
+    </key>
+    <key name="android.template.134100868">
+      <recent name="com.example.instauser" />
+    </key>
+    <key name="android.template.-507867091">
+      <recent name="com.example.instauser" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62c73255-279f-4b5e-ad11-0e2698a8df2c" name="Default Changelist" comment="" />
+      <created>1592975439370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592975439370</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="174" key="#Inspections" timestamp="1629432979684">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="552" y="174" key="#Inspections/0.0.1920.1032@0.0.1920.1032" timestamp="1629432979684" />
+    <state x="954" y="251" key="#PSD" timestamp="1629451195361">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="954" y="251" key="#PSD/0.0.1920.1032@0.0.1920.1032" timestamp="1629451195361" />
+    <state x="1170" y="271" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1629598011592">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="1170" y="271" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1629598011592" />
+    <state x="751" y="232" key="#com.intellij.ide.util.MemberChooser" timestamp="1629537479034">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="751" y="232" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1629537479034" />
+    <state x="690" y="263" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1629676100684">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="690" y="263" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1629676100684" />
+    <state x="640" y="189" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1629432303275">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="640" y="189" key="#com.intellij.unscramble.UnscrambleDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1629432303275" />
+    <state x="717" y="368" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1629680465050">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="717" y="368" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1032@0.0.1920.1032" timestamp="1629680465050" />
+    <state x="540" y="271" key="AndroidCreateResourceDirectoryDialog" timestamp="1629675859832">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="540" y="271" key="AndroidCreateResourceDirectoryDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1629675859832" />
+    <state x="1020" y="271" key="AndroidCreateResourceFileDialog" timestamp="1629536962883">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="1020" y="271" key="AndroidCreateResourceFileDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1629536962883" />
+    <state x="1298" y="332" key="AndroidCreateXmlResourceDialog" timestamp="1629534642490">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="1298" y="332" key="AndroidCreateXmlResourceDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1629534642490" />
+    <state x="740" y="271" key="FileChooserDialogImpl" timestamp="1629681178944">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="740" y="271" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1629681178944" />
+    <state width="956" height="283" key="GridCell.Tab.0.bottom" timestamp="1629678902481">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="956" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1629678902481" />
+    <state width="956" height="283" key="GridCell.Tab.0.center" timestamp="1629678902481">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="956" height="283" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1629678902481" />
+    <state width="956" height="283" key="GridCell.Tab.0.left" timestamp="1629678902480">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="956" height="283" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1629678902480" />
+    <state width="956" height="283" key="GridCell.Tab.0.right" timestamp="1629678902481">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="956" height="283" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1629678902481" />
+    <state x="1163" y="162" key="refactoring.ChangeSignatureDialog" timestamp="1629596065491">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="1163" y="162" key="refactoring.ChangeSignatureDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1629596065491" />
+    <state x="1096" y="242" key="run.anything.popup" timestamp="1629503637838">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="1096" y="242" key="run.anything.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1629503637838" />
+    <state x="1155" y="428" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1629543125415">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="1155" y="428" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1629543125415" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/instauser/RecyclerViewItems/MainView.kt</url>
+          <line>13</line>
+          <properties class="com.example.instauser.RecyclerViewItems.MainView" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/instauser/RecyclerViewItems/MainView.kt</url>
+          <line>52</line>
+          <properties class="com.example.instauser.RecyclerViewItems.MainView" method="setListUserHome">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
